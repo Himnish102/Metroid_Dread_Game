@@ -13,6 +13,7 @@ Audio Skill: Programmed the __soundtrack on Unity__
 
 ## Google Drive Game Links
 * __C# CodeBase (zipped)__: https://drive.google.com/drive/folders/1SafAAzfrU2QW-_dNm7NkJjneJmEfxieO?usp=drive_link
+* __Metroid Videos__: https://drive.google.com/drive/folders/1-K355AHrfZgs3vM4jGtlWQNfhVlzWZWb?usp=drive_link
 * __3ds Max File__: https://drive.google.com/drive/folders/1VLpotyJEgQi5n9lrei4H7eTelJlBTDX3?usp=drive_link
 * __2D Shaders (zipped)__: https://drive.google.com/drive/folders/1Xrw9owS5exmESGYpbBa34V4Ukt4rDEgN?usp=drive_link
 * __Concept Details__: https://drive.google.com/drive/folders/1lNHJTuImtj49dbKkQSSDDg-UyBZWP761?usp=drive_link
